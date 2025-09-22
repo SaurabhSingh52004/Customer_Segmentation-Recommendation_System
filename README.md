@@ -35,4 +35,6 @@ The dataset comprises various metrics related to online retail transactions. The
 - **README.md**: This file, providing an overview of the project.  
 
 ## Additional Resources
-- **Dataset Source:** [UCI Machine Learning Repository - Online Retail Dataset].
+ ## Additional Resources
+- **Dataset Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+
